@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 		System.out.println("我来自dev的修改");
 		System.out.println("我来自master的修改");
 		System.out.println("我来自dev的第二次修改");
+		
 	}
 
 	public void getDataBy1() {
