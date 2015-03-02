@@ -18,8 +18,13 @@ public class MainActivity extends Activity {
 	public void getDataBy2() {
 
 	}
-       
+
 	public void getDataBy1() {
-	
+		int j = 3;
+		int i = 1;
+		int y = 2;
+		int z = i + y;
+		j = z + i + y;
+		System.out.println("z==" + z + "<---->j==" + j);
 	}
 }
