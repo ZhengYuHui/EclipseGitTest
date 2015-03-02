@@ -20,10 +20,10 @@ public class MainActivity extends Activity {
 	}
 
 	public void getDataBy1() {
-		int j = 3;
 		int i = 1;
 		int y = 2;
 		int z = i + y;
+		int j = 3;
 		j = z + i + y;
 		System.out.println("z==" + z + "<---->j==" + j);
 	}
