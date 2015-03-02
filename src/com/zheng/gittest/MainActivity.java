@@ -18,4 +18,8 @@ public class MainActivity extends Activity {
 	public void getDataBy2() {
 
 	}
+       
+	public void getDataBy1() {
+	
+	}
 }
