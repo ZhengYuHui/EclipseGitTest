@@ -10,8 +10,12 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
-        //123321
-		//qqqqqqqqqqq
-        //zzzzzz
-		//来自笔记本eclipse的再次提交   -----
+
+	// 123321
+	// qqqqqqqqqqq
+	// zzzzzz
+	// 来自笔记本eclipse的再次提交 -----
+	public void getDataBy2() {
+
+	}
 }
