@@ -12,7 +12,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 	}
         //123321
-		//qqqqqqqqqqq
+	//qqqqqqqqqqq
         //zzzzzz
-		//来自笔记本eclipse的再次提交   -----
+	//来自笔记本eclipse的再次提交   -----
+	public void getDataBy1() {
+	
+	}
 }
