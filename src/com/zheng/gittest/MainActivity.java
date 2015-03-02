@@ -20,6 +20,8 @@ public class MainActivity extends Activity {
 	}
        
 	public void getDataBy1() {
-	
+		int i=1;
+		int y=2;
+		int z=i+y;
 	}
 }
