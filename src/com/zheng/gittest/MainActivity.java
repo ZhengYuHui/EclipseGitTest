@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
 	// 来自笔记本eclipse的再次提交 -----
 	public void getDataBy2() {
 		System.out.println("我来自dev的修改");
-
+		System.out.println("我来自dev的第二次修改");
 	}
 
 	public void getDataBy1() {
