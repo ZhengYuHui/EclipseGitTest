@@ -11,10 +11,6 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 	}
 
-	// 123321
-	// qqqqqqqqqqq
-	// zzzzzz
-	// 来自笔记本eclipse的再次提交 -----
 	public void getDataBy2() {
 		System.out.println("我来自dev的修改");
 		System.out.println("我来自master的修改");
